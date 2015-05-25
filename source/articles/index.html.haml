@@ -1,0 +1,46 @@
+---
+pageable: true
+per_page: 3
+---
+
+%header.main-header.author-head{cover}
+  %nav.main-nav.overlay.clearfix
+    - if blog_settings.logo.present?
+      %a.blog-logo{href: home_path}
+        = image_tag blog_settings.logo, alt: 'Blog Logo'
+    - if blog_settings.navigation
+      %a.menu-button.icon-menu{href: '#'}
+        %span.word Menu
+  .vertical
+    .main-header-content.inner
+      %h1.page-title
+        Que te gustaria leer?
+      %h2.page-description
+        Todos los artículos publicados 
+.extra-pagination.inner
+  = partial(:pagination) if paginate
+
+/ %main#content.content{role: :main}
+/   = partial(:page_articles,
+/             locals: { page_articles: page_articles, paginate: paginate })
+
+- page_articles.each_with_index do |article, i|
+  %article.post
+    %header.post-header
+      %h2.post-title= link_to article.title, article
+    %section.post-excerpt
+      %p
+        = article.summary
+        = link_to 'Leer artículo completo &raquo;', article, class: 'read-more'
+    %footer.post-meta
+      - if gravatar?
+        %img.author-thumb{src: gravatar(24), alt: 'Author image',nopin: 'nopin'}
+      %a{href: author_path}= blog_author.name
+      - if tags?(article)
+        on #{tags(article)}
+      %time.post-date{datetime: article.date.strftime('%Y-%m-%d')}
+        = article.date.strftime(blog_settings.date_format)
+
+.row
+  .container
+    = partial(:pagination) if paginate

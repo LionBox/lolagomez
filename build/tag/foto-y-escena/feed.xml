@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Lola Gómez de Barros: foto y escena</title>
+  <subtitle>Posts tagged with foto y escena</subtitle>
+  <id>http://www.lolagomezdebarros.es</id>
+  <link href="http://www.lolagomezdebarros.es"/>
+  <link href="http://www.lolagomezdebarros.es/tag/foto-y-escena/feed.xml" rel="self"/>
+  <updated>2015-05-23T13:45:00+01:00</updated>
+  <author>
+    <name>Lola Gómez</name>
+  </author>
+  <entry>
+    <title>#1 Fotografía y escena</title>
+    <link rel="alternate" href="http://www.lolagomezdebarros.es/2015/05/13/1-fotografia-y-escena/"/>
+    <id>http://www.lolagomezdebarros.es/2015/05/13/1-fotografia-y-escena/</id>
+    <published>2015-05-13T11:49:00+01:00</published>
+    <updated>2015-05-25T10:39:32+01:00</updated>
+    <author>
+      <name>Lola Gómez</name>
+    </author>
+    <summary type="html">
+
+</summary>
+  </entry>
+</feed>

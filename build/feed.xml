@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Lola Gómez de Barros</title>
+  <subtitle>Ejercicios de escritura</subtitle>
+  <id>http://www.lolagomezdebarros.es</id>
+  <link href="http://www.lolagomezdebarros.es"/>
+  <link href="http://www.lolagomezdebarros.es/feed.xml" rel="self"/>
+  <updated>2015-05-23T13:45:00+01:00</updated>
+  <author>
+    <name>Lola Gómez</name>
+  </author>
+  <entry>
+    <title>#4 Fotografía y escena</title>
+    <link rel="alternate" href="http://www.lolagomezdebarros.es/2015/05/23/4-fotografia-y-escena/"/>
+    <id>http://www.lolagomezdebarros.es/2015/05/23/4-fotografia-y-escena/</id>
+    <published>2015-05-23T13:45:00+01:00</published>
+    <updated>2015-05-25T10:40:09+01:00</updated>
+    <author>
+      <name>Lola Gómez</name>
+    </author>
+    <summary type="html">
+
+</summary>
+  </entry>
+  <entry>
+    <title>#3 Fotografía y escena</title>
+    <link rel="alternate" href="http://www.lolagomezdebarros.es/2015/05/18/3-fotografia-y-escena/"/>
+    <id>http://www.lolagomezdebarros.es/2015/05/18/3-fotografia-y-escena/</id>
+    <published>2015-05-18T11:55:00+01:00</published>
+    <updated>2015-05-25T10:40:05+01:00</updated>
+    <author>
+      <name>Lola Gómez</name>
+    </author>
+    <summary type="html">
+
+</summary>
+  </entry>
+  <entry>
+    <title>#2 Fotografía y escena</title>
+    <link rel="alternate" href="http://www.lolagomezdebarros.es/2015/05/15/2-fotografia-y-escena/"/>
+    <id>http://www.lolagomezdebarros.es/2015/05/15/2-fotografia-y-escena/</id>
+    <published>2015-05-15T09:31:00+01:00</published>
+    <updated>2015-05-25T10:40:00+01:00</updated>
+    <author>
+      <name>Lola Gómez</name>
+    </author>
+    <summary type="html">
+
+</summary>
+  </entry>
+  <entry>
+    <title>El andén</title>
+    <link rel="alternate" href="http://www.lolagomezdebarros.es/2015/05/13/el-anden/"/>
+    <id>http://www.lolagomezdebarros.es/2015/05/13/el-anden/</id>
+    <published>2015-05-13T14:16:00+01:00</published>
+    <updated>2015-05-13T14:19:33+01:00</updated>
+    <author>
+      <name>Lola Gómez</name>
+    </author>
+    <summary type="html">Cada día laborable a las 7 de la mañana, Harry cogía el tren de cercanías en la misma estación. Al llegar encontró las habituales caras somnolientas y fue caminando hasta el principio del andén.  El frío replegaba los cuerpos sobre las prendas de abrigo</summary>
+  </entry>
+  <entry>
+    <title>#1 Fotografía y escena</title>
+    <link rel="alternate" href="http://www.lolagomezdebarros.es/2015/05/13/1-fotografia-y-escena/"/>
+    <id>http://www.lolagomezdebarros.es/2015/05/13/1-fotografia-y-escena/</id>
+    <published>2015-05-13T11:49:00+01:00</published>
+    <updated>2015-05-25T10:39:32+01:00</updated>
+    <author>
+      <name>Lola Gómez</name>
+    </author>
+    <summary type="html">
+
+</summary>
+  </entry>
+</feed>
