@@ -37,26 +37,26 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.lolagomezdebarros.es/articles/page/2/index.html</loc>
-    <lastmod>2015-05-25T10:24:33+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.lolagomezdebarros.es/tag/foto-y-escena/index.html</loc>
-    <lastmod>2015-05-25T10:43:00+01:00</lastmod>
+    <lastmod>2015-05-25T11:06:55+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.lolagomezdebarros.es/index.html</loc>
-    <lastmod>2015-05-25T10:43:00+01:00</lastmod>
+    <lastmod>2015-05-25T11:06:55+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.lolagomezdebarros.es/author/lola-gomez/index.html</loc>
-    <lastmod>2015-05-25T10:43:00+01:00</lastmod>
+    <lastmod>2015-05-25T11:06:55+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.lolagomezdebarros.es/articles/page/2/index.html</loc>
+    <lastmod>2015-05-25T10:24:33+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
