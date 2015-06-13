@@ -4,7 +4,7 @@ date: 2015-05-23 12:45 UTC
 tags: 
 layout: post
 ---
-![Balthus and Setsuko, Chateau-d’Oex, Switzerland, 1989 by E. Hofer](/2015-foto/Balthus-and-Setsuko-Chateau-dOex-Switzerland-1989-by-E.-Hofer.jpg)
+![Balthus and Setsuko, Chateau-d’Oex, Switzerland, 1989 by E. Hofer](/2015-foto/Balthus-and-Setsuko-Chateau-dOex-Switzerland-1989-by-E-Hofer.jpg)
 
 READMORE
 

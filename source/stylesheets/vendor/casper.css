@@ -287,10 +287,6 @@ dl dd {
     margin-bottom: 1em
 }
 
-li {
-    margin: 0.4em 0;
-}
-
 li li {
     margin: 0;
 }
@@ -644,7 +640,7 @@ body.nav-opened .nav {
     counter-increment: item;
 }
 .nav li {
-    margin: 0;
+    margin: 10px 0;
 }
 .nav li a {
     text-decoration: none;
@@ -1097,6 +1093,8 @@ body:not(.post-template) .post-title {
     transform: translateX(-50%);
 }
 
+.post-content ul li:before{ content:"-"; position:relative; left:-5px;}
+.post-content ul li{ text-indent:-5px; list-style-type: none; }
 .footnotes {
     font-style: italic;
     font-size: 1.3rem;
