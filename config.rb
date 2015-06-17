@@ -133,9 +133,9 @@ activate :livereload
 # Pretty URLs - http://middlemanapp.com/basics/pretty-urls/
 activate :directory_indexes
 
-set :relative_links, true
-activate :relative_assets
-set :strip_index_file, true
+# set :relative_links, true
+# activate :relative_assets
+# set :strip_index_file, true
 
 # Middleman-Syntax - https://github.com/middleman/middleman-syntax
 set :haml, { ugly: true }
