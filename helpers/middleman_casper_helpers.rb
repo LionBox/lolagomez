@@ -92,16 +92,20 @@ module MiddlemanCasperHelpers
   def gravatar?
     blog_author.gravatar_email.present?
   end
-
+  def google_short_url
+    Google::UrlShortener::Base.api_key = "AIzaSyBoExrOszp4rSZpQvavGj5BSU-n8dCh-4k"
+    url = Google::UrlShortener::Url.new(:long_url => "#{current_article_url}")
+    url.shorten!
+  end
   def twitter_url
-    "https://twitter.com/share?text=#{current_article.title}" \
-      "&amp;url=#{current_article_url}"
+    "https://twitter.com/share?text=¡Acabo de leer el último texto de Lola! Tú también puedes leerlo en su web:" \
+    "&amp;url=" + google_short_url
   end
   def facebook_url
-    "https://www.facebook.com/sharer/sharer.php?u=#{current_article_url}"
+    "https://www.facebook.com/sharer/sharer.php?u=" + google_short_url
   end
   def google_plus_url
-    "https://plus.google.com/share?url=#{current_article_url}"
+    "https://plus.google.com/share?url=" + google_short_url
   end
 
   def feed_path

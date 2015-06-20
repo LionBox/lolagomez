@@ -23,4 +23,4 @@ gem "middleman-google-analytics"
 gem 'kramdown', '~> 1.7.0'
 
 #Google Short URL
-gem 'googl'
+gem 'google_url_shortener', '~> 1.0.0'
