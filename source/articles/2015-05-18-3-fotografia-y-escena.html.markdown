@@ -9,7 +9,7 @@ layout: post
 READMORE
 
 <small> 
-*Leszek Bujnowski, Rhino rider in journey. Image from [Fotoblur Leszek Bujnowski](https://www.fotoblur.com/images/335952).*
+*Leszek Bujnowski, Rhino rider in journey. Image from [Fotoblur Leszek Bujnowski](https://www.fotoblur.com/images/335952){:target="_blank"}.*
 </small>
 
 Ray envió la fotografía, con una nota pidiéndome un escueto informe que dictaminara la autoría de quien firmaba en el reverso. Una ganga adquirida en subasta le hacía dudar si dejarla en su colección particular o hacer negocio. Así hice constar que los paraguas, las luces, la lluvia y la firma hacían indiscutible la autenticidad de la obra. Fui breve y no le explique el significado trágico del pequeño pájaro que quizás a él, siendo supersticioso, le habría interesado

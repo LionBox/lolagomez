@@ -16,4 +16,11 @@ gem 'redcarpet', '~> 3.2.3'
 # For "summary"-Helper
 gem 'nokogiri', '~> 1.6.6.2'
 
+#Google Analytics
 gem "middleman-google-analytics"
+
+#New tab links
+gem 'kramdown', '~> 1.7.0'
+
+#Google Short URL
+gem 'googl'

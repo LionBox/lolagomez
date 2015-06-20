@@ -6,13 +6,10 @@ layout: post
 ---
 ![Rober Doisneau](/2015-foto/robert-doisneau-le-sculpteur.jpg "Rober Doisneau")
 
-
-
-
 READMORE
 
 <small> 
-*Robert Doisneau, Le sculpteur. Image from [Bibliothèque nationale de France](http://expositions.bnf.fr/index.php).*
+*Robert Doisneau, Le sculpteur. Image from [Bibliothèque nationale de France](http://expositions.bnf.fr/index.php){:target="_blank"}.*
 </small>
 
 No podía hacer el esfuerzo de salir fuera de la barraca e ir a la mina de oro a trabajar, la enfermedad estaba muy  avanzada. 
