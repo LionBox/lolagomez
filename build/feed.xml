@@ -5,10 +5,23 @@
   <id>http://www.lolagomezdebarros.es</id>
   <link href="http://www.lolagomezdebarros.es"/>
   <link href="http://www.lolagomezdebarros.es/feed.xml" rel="self"/>
-  <updated>2015-06-20T09:26:00+01:00</updated>
+  <updated>2015-06-24T19:28:00+01:00</updated>
   <author>
     <name>Lola Gómez</name>
   </author>
+  <entry>
+    <title>#7 Fotografía y escena</title>
+    <link rel="alternate" href="http://www.lolagomezdebarros.es/2015/06/24/7-fotografia-y-escena/"/>
+    <id>http://www.lolagomezdebarros.es/2015/06/24/7-fotografia-y-escena/</id>
+    <published>2015-06-24T19:28:00+01:00</published>
+    <updated>2015-06-24T19:32:28+01:00</updated>
+    <author>
+      <name>Lola Gómez</name>
+    </author>
+    <summary type="html">
+
+</summary>
+  </entry>
   <entry>
     <title>#6 Fotografía y escena</title>
     <link rel="alternate" href="http://www.lolagomezdebarros.es/2015/06/20/6-fotografia-y-escena/"/>
@@ -67,19 +80,6 @@
     <id>http://www.lolagomezdebarros.es/2015/05/23/4-fotografia-y-escena/</id>
     <published>2015-05-23T13:45:00+01:00</published>
     <updated>2015-06-20T09:56:19+01:00</updated>
-    <author>
-      <name>Lola Gómez</name>
-    </author>
-    <summary type="html">
-
-</summary>
-  </entry>
-  <entry>
-    <title>#3 Fotografía y escena</title>
-    <link rel="alternate" href="http://www.lolagomezdebarros.es/2015/05/18/3-fotografia-y-escena/"/>
-    <id>http://www.lolagomezdebarros.es/2015/05/18/3-fotografia-y-escena/</id>
-    <published>2015-05-18T11:55:00+01:00</published>
-    <updated>2015-06-20T09:56:30+01:00</updated>
     <author>
       <name>Lola Gómez</name>
     </author>

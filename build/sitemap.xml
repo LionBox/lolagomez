@@ -55,6 +55,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.lolagomezdebarros.es/2015/06/24/7-fotografia-y-escena/index.html</loc>
+    <lastmod>2015-06-24T19:32:28+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.lolagomezdebarros.es/articles/index.html</loc>
     <lastmod>2015-05-25T10:24:33+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -62,19 +68,25 @@
   </url>
   <url>
     <loc>http://www.lolagomezdebarros.es/author/lola-gomez/page/2/index.html</loc>
-    <lastmod>2015-06-20T13:16:33+01:00</lastmod>
+    <lastmod>2015-06-24T19:40:02+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.lolagomezdebarros.es/page/2/index.html</loc>
-    <lastmod>2015-06-20T13:16:33+01:00</lastmod>
+    <lastmod>2015-06-24T19:40:02+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.lolagomezdebarros.es/index.html</loc>
-    <lastmod>2015-06-20T13:16:33+01:00</lastmod>
+    <lastmod>2015-06-24T19:40:02+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.lolagomezdebarros.es/articles/page/4/index.html</loc>
+    <lastmod>2015-05-25T10:24:33+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -92,13 +104,13 @@
   </url>
   <url>
     <loc>http://www.lolagomezdebarros.es/tag/foto-y-escena/index.html</loc>
-    <lastmod>2015-06-20T13:16:33+01:00</lastmod>
+    <lastmod>2015-06-24T19:40:02+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.lolagomezdebarros.es/author/lola-gomez/index.html</loc>
-    <lastmod>2015-06-20T13:16:33+01:00</lastmod>
+    <lastmod>2015-06-24T19:40:02+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
