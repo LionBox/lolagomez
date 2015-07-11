@@ -5,10 +5,23 @@
   <id>http://www.lolagomezdebarros.es</id>
   <link href="http://www.lolagomezdebarros.es"/>
   <link href="http://www.lolagomezdebarros.es/feed.xml" rel="self"/>
-  <updated>2015-07-04T10:51:00+01:00</updated>
+  <updated>2015-07-11T18:11:00+01:00</updated>
   <author>
     <name>Lola Gómez</name>
   </author>
+  <entry>
+    <title>#1 Fotografía y narración</title>
+    <link rel="alternate" href="http://www.lolagomezdebarros.es/2015/07/11/1-fotografia-y-narracion/"/>
+    <id>http://www.lolagomezdebarros.es/2015/07/11/1-fotografia-y-narracion/</id>
+    <published>2015-07-11T18:11:00+01:00</published>
+    <updated>2015-07-11T18:16:58+01:00</updated>
+    <author>
+      <name>Lola Gómez</name>
+    </author>
+    <summary type="html">
+
+</summary>
+  </entry>
   <entry>
     <title>El Negocio</title>
     <link rel="alternate" href="http://www.lolagomezdebarros.es/2015/07/04/el-negocio/"/>
@@ -69,19 +82,6 @@
       <name>Lola Gómez</name>
     </author>
     <summary type="html">
-
-</summary>
-  </entry>
-  <entry>
-    <title>La colección</title>
-    <link rel="alternate" href="http://www.lolagomezdebarros.es/2015/05/30/la-coleccion/"/>
-    <id>http://www.lolagomezdebarros.es/2015/05/30/la-coleccion/</id>
-    <published>2015-05-30T16:44:00+01:00</published>
-    <updated>2015-05-30T16:52:10+01:00</updated>
-    <author>
-      <name>Lola Gómez</name>
-    </author>
-    <summary type="html">La fiesta está terminando. Ellas se resisten  a dejar la conversación que mantienen desde hace  rato, al ser presentadas por el anfitrión.  La  propuesta de Andrea, joven risueña y experta en obras de  arte, para caminar juntas hasta el centro de la ciudad le  parece magnífica a Celíne, mujer madura y serena.  Aprovecharán la calidez de la madrugada, en la hora  intempestiva donde la gente se cruza y cuesta trabajo saber  quién ha madrugado o quién ha trasnochado,  para  seguir conociéndose.
 
 </summary>
   </entry>
